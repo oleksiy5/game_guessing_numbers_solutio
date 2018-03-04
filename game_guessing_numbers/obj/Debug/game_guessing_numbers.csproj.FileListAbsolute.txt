@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.exe.config
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.exe
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.pdb
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.exe
+C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.pdb
