@@ -1,0 +1,6 @@
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Release\game_guessing_numbers.exe.config
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Release\game_guessing_numbers.exe
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Release\game_guessing_numbers.pdb
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Release\game_guessing_numbers.csproj.CoreCompileInputs.cache
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Release\game_guessing_numbers.exe
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Release\game_guessing_numbers.pdb

@@ -5,3 +5,10 @@ C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\De
 C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.csproj.CoreCompileInputs.cache
 C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.exe
 C:\Users\Oleksiy\source\repos\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.pdb
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.exe.config
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.exe
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\bin\Debug\game_guessing_numbers.pdb
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.csprojResolveAssemblyReference.cache
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.csproj.CoreCompileInputs.cache
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.exe
+C:\olo_app\game_guessing_numbers\game_guessing_numbers\obj\Debug\game_guessing_numbers.pdb
